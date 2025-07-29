@@ -12,3 +12,4 @@ https://github.com/Nagarjuna39/POWER-BI-DASHBOARD/blob/main/archive%20(8).zip
 6.Monthly & Yearly Trends: Line/bar charts showing how sales/profits change over time.
 
 #Dashboard link
+https://github.com/Nagarjuna39/POWER-BI-DASHBOARD/blob/main/naveen.pdf
